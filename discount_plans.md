@@ -8,3 +8,5 @@
 ## 2.5% discount plan
 2.5% discount on total bill for monthly vistors
 
+## 7.5% discount plan
+7.5% discount on total bill for loyal users and Coffeehut_Wallet
