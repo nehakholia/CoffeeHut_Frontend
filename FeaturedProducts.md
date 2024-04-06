@@ -21,6 +21,10 @@
 ## Yearly Users
 - No discount
 
+## Loyal Users
+- 7.5% discount plan
+
+
 # Discount plan for payment option
 ## 10% discount plan
 10% discount on total bill for credit card and debit card
@@ -30,3 +34,6 @@
 
 ## 2.5% discount plan
 2.5% discount on total bill for E-wallet
+
+## 7.5% discount plan
+7.5% discount on total bill for Coffeehut_Wallet
