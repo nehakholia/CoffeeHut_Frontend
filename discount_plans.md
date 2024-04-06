@@ -1,1 +1,10 @@
-At our coffee shop, we offer several discount plans to make your coffee experience even more enjoyable. Firstly, our subscription discount allows you to save money on your favorite coffee blends by signing up for regular deliveries. You'll receive a discount on each order when you subscribe, ensuring you always have your coffee fix on hand without breaking the bank. Additionally, we provide bulk purchase discounts, so the more coffee you buy, the more you save. Whether you're stocking up for yourself or buying gifts for friends and family, our bulk discounts make it easier to indulge in your favorite brews. As a new customer, you can take advantage of our first-time buyer discount, receiving a special discount on your initial purchase. Plus, our referral program rewards you with discounts when you refer friends, spreading the love of coffee while earning discounts for yourself. Keep an eye out for our holiday or seasonal discounts, offering limited-time savings on select coffee products, ensuring you can enjoy your favorite blends at even more affordable prices. With our range of discount plans, we strive to make high-quality coffee accessible to all our customers while delivering unbeatable value and savings.
+# Discount plan 
+## 10% discount plan
+10% discount on total bill for daily vistors
+
+## 5% discount plan
+5% discount on total bill for weekly vistors
+
+## 2.5% discount plan
+2.5% discount on total bill for monthly vistors
+
